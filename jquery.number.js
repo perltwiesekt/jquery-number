@@ -86,7 +86,7 @@
 	var _keydown = {
 		codes : {
 			46 : 127,
-			//188 : 44,
+			188 : 44,
 			109 : 45,
 			190 : 46,
 			191 : 47,
@@ -99,7 +99,7 @@
 			187 : 61, //IE Key codes
 			186 : 59, //IE Key codes
 			189 : 45, //IE Key codes
-			110 : 46  //IE Key codes
+			110 : 44  //IE Key codes
 		},
 		shifts : {
 			96 : "~",
